@@ -1,0 +1,16 @@
+# Java
+*.class
+*.jar
+
+# Kattis
+*.in
+*.out
+*.ans
+
+# General
+*.txt
+*.zip
+*.rar
+
+# VS Code
+.vscode
