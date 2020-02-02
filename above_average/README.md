@@ -1,2 +1,2 @@
-# Above Average Problem Link
-[https://open.kattis.com/problems/aboveaverage](https://open.kattis.com/problems/aboveaverage)
+# Last Factorial Digit Problem Link
+[https://open.kattis.com/problems/lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit)
